@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Panelizado.PcbDoc   25/10/2015  23:28:51
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panelizado-RoundHoles.TXT
+ASCII SlotHoles File : Panelizado-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          280              43.37 Inch (1101.63 mm)
+T2        35.4mil (0.89916mm)      Round          100              21.97 Inch (558.07 mm)
+T3        19.7mil (0.50038mm)      Round          34        NPTH   10.47 Inch (265.86 mm)
+T4        90.6mil (2.30124mm)      Slot           4         NPTH   14.86 Inch (377.55 mm)
+T5        98.4mil (2.49936mm)      Slot           5         NPTH   11.44 Inch (290.65 mm)
+---------------------------------------------------------------------------
+Totals                                            423              102.12 Inch (2593.76 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
